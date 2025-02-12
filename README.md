@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gael Ghislain AMOUSSOU</h1>
-<h3 align="center">A passionate fullstack developer and cybersecurity learner from Benin</h3>
+<h3 align="center">A passionate fullstack developer and cybersecurity trainee from Benin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghislain12&label=Profile%20views&color=0e75b6&style=flat" alt="ghislain12" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gaelghislain853@gmail.com**
 
-- ⚡ Fun fact **Je suis un Madridista inconditionnel. Même mes commits ont un style galactique ! 🌌⚪ (![Real Madrid](https://img.shields.io/badge/Real%20Madrid-Fan-blue?logo=realmadrid&style=flat-square))**
+- ⚡ Fun fact **Je suis un Madridista inconditionnel. Même mes commits ont un style galactique ! 🌌⚪![Real Madrid](https://img.shields.io/badge/Real%20Madrid-Fan-blue?logo=realmadrid&style=flat-square)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
