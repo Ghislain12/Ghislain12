@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gaelghislain853@gmail.com**
 
-- ⚡ Fun fact **I think we can collaborate**
+- ⚡ Fun fact **Je suis un Madridista inconditionnel. Même mes commits ont un style galactique ! 🌌⚪ (![Real Madrid](https://img.shields.io/badge/Real%20Madrid-Fan-blue?logo=realmadrid&style=flat-square))**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
